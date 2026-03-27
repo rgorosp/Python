@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Lava Roupa",
+        "categoria": "Casa",
+        "concluida": true
+    },
+    {
+        "nome": "Bola",
+        "categoria": "Lazer",
+        "concluida": false
+    },
+    {
+        "nome": "Estudos",
+        "categoria": "Estudo",
+        "concluida": false
+    }
+]
