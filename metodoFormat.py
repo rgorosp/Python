@@ -1,6 +1,6 @@
 # Programa: metodoFormat.py
 # Formatação de strings com diferentes métodos
-from calculoIMC import processamento
+from calculo_imc import processamento
 import os
 
 var1 = "Python"

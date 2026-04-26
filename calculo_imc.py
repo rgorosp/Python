@@ -1,4 +1,4 @@
-# Programa: calculoIMC.py
+# Programa: calculo_imc.py
 # Cálculo do Índice de Massa Corporal (IMC)
 import os
 

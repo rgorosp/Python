@@ -1,7 +1,7 @@
-# Programa: operadoresRelacionais.py
-# Demonstração dos operadores relacionais em Python
-
+# Programa: operadores_logicos.py
+# Demonstração dos operadores lógicos em Python
 # Operador Lógico "and"
+
 import os
 # PROCESSAMENTO
 def processamento():
