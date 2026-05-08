@@ -3,8 +3,22 @@ INT - Numeros Inteiros
 FLOAT - Ponto Flutuante
 TYPE - Tipo do Argumento
 """
-print("Numeros Inteiros: ", 0,11,1024,-5)
-print("Ponto Flutuante.: ", 1.1,23.25,100.1,-000.5)
-print("Tipo do Argumento: ", type(0), type(1.1), type('Casa'))
-print(5 // 2)
-float("a")
+import os
+
+# PROCESSAMENTO
+def processamento():
+    print("Numeros Inteiros: ", 0,11,1024,-5)
+    print("Ponto Flutuante.: ", 1.1,23.25,100.1,-000.5)
+    print("Tipo do Argumento: ", type(0), type(1.1), type('Casa'))
+    print(5 // 2)
+    print(str("a"))
+
+    print()
+
+# INICIO DO PROGRAMA
+def main():
+    os.system("cls")
+    processamento()
+
+if __name__ == "__main__":
+    main()
