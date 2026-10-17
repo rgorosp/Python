@@ -2,3 +2,6 @@
 *.log
 *.tmp
 *.bak
+# Python compilado
+__pycache__/
+*.pyc
